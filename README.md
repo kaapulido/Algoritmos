@@ -7,13 +7,13 @@ Repositório dedicado aos exercícios de Algoritmos da disciplina de Algoritmos 
 Este repositório está organizado da seguinte forma:
 
 - **Vetores**
-  - [Arquivo.alg](./Vetores/Arquivo.alg): Implementação de exemplos com vetores.
+  - [Arquivo.alg](./Vetores/vetores.alg): Implementação de exemplos com vetores.
 - **Para**
-  - [Arquivo.alg](./Para/Arquivo.alg): Exemplos de laços de repetição usando a estrutura "Para".
+  - [Arquivo.alg](./Para/para.alg): Exemplos de laços de repetição usando a estrutura "Para".
 - **Enquanto**
-  - [Arquivo.alg](./Enquanto/Arquivo.alg): Exemplos de laços de repetição usando a estrutura "Enquanto".
+  - [Arquivo.alg](./Enquanto/enquanto.alg): Exemplos de laços de repetição usando a estrutura "Enquanto".
 - **Repita**
-  - [Arquivo.alg](./Repita/Arquivo.alg): Exemplos de laços de repetição usando a estrutura "Repita".
+  - [Arquivo.alg](./Repita/repita.alg): Exemplos de laços de repetição usando a estrutura "Repita".
 
 ## Como usar
 
