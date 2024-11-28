@@ -1,0 +1,8 @@
+algoritmo "ExemploPara"
+var
+   i: inteiro
+inicio
+   para i de 1 ate 10 faca
+      escreval("Número: ", i)
+   fimpara
+fimalgoritmo
