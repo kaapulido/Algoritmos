@@ -1,6 +1,6 @@
 # Algoritmos
 
-Repositório dedicado aos exercícios de Algoritmos da disciplina de Algoritmos da Fatec Jahu.
+Repositório dedicado para a disciplina de Algoritmos da Fatec Jahu.
 
 ## Conteúdo
 
